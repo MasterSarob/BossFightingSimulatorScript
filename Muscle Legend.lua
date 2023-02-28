@@ -143,6 +143,7 @@ AZY["10"] = Instance.new("UIAspectRatioConstraint", AZY["5"]);
 AZY["10"]["AspectRatio"] = 1.6193960905075073;
 
 -- StarterGui.ArceusXV3.AnimationIntro
+AZY["11"] = Instance.new("Folder", AZY["0"]);
 AZY["11"]["Name"] = [[AnimationIntro]];
 
 -- StarterGui.ArceusXV3.AnimationIntro.Background
